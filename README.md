@@ -4,7 +4,7 @@ Netfinder is a script that uses fping to quickly determin if all private network
 Prerequisites: 
 apt-get install parallel fping 
 
-### Thanks Ole Tange I personally LOVE this utility 
+### Thanks Ole Tange I personally LOVE this utility (parallel)
 
 Run the scanner
 ./netfinder.sh  | tee found_nets_alive.txt
